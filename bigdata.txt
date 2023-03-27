@@ -9,3 +9,5 @@ Hbase
 Kafka
 Oozie
 Pig
+MongoDB
+Tableau
