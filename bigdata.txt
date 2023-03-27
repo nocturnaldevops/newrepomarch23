@@ -6,3 +6,6 @@ Sqoop
 Flume
 Zookeeper
 Hbase
+Kafka
+Oozie
+Pig
